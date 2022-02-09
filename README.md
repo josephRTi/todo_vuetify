@@ -1,5 +1,11 @@
 # to_do
 
+## URL
+Deployed on 
+```
+https://to-do-webapplication.herokuapp.com/
+```
+
 ## Project setup
 ```
 npm install
