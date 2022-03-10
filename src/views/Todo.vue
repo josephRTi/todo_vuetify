@@ -16,6 +16,7 @@
         class="pt-0"
         flat
     >
+    <p>Простое веб-приложение, реализвованное при помощи Vue.js и Vuetify</p>
       <div v-for="item in nodes" :key="item.id">
         <v-list-item @click="updateItem(item.id)" :class="{'blue lighten-5' : item.is_finished}">
           <template v-slot:default="active">
