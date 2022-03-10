@@ -6,6 +6,7 @@
           <v-list-item-title class="text-h6">
             Todo List
           </v-list-item-title>
+          <p>1</p>
           <v-list-item-subtitle>
             Created using Vuetify
           </v-list-item-subtitle>
